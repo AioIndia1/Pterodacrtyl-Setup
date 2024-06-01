@@ -1,2 +1,3 @@
 # use after run dockerupdate
 docker-compose up -d
+chmod +x pterorun
